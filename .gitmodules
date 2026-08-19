@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/rotsl/rotsl.r-universe.dev
 	branch = HEAD
+[submodule "grayleafspotdata"]
+	path = grayleafspotdata
+	url = https://github.com/rotsl/grayleafspotdata
 [submodule "grayleafspotr"]
 	path = grayleafspotr
 	url = https://github.com/rotsl/grayleafspotr
