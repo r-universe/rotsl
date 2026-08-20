@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/rotsl/rotsl.r-universe.dev
 	branch = HEAD
+[submodule "biotrace"]
+	path = biotrace
+	url = https://github.com/rotsl/biotrace-r
 [submodule "grayleafspotdata"]
 	path = grayleafspotdata
 	url = https://github.com/rotsl/grayleafspotdata
