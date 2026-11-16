@@ -5,6 +5,9 @@
 [submodule "biotrace"]
 	path = biotrace
 	url = https://github.com/rotsl/biotrace-r
+[submodule "crossStatR"]
+	path = crossStatR
+	url = https://github.com/rotsl/crossStatR
 [submodule "grayleafspotdata"]
 	path = grayleafspotdata
 	url = https://github.com/rotsl/grayleafspotdata
